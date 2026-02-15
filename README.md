@@ -10,9 +10,9 @@ A curated collection of Google Colab notebooks for various AI tasks. Optimized f
 
 High-performance models for upscaling and restoration.
 
-| Model | Resource | Hardware Required | Open in Colab |
-| --- | --- | --- | --- |
-| **RealESRGAN** | Image Upscale | **T4 GPU** (15GB VRAM) | [](https://www.google.com/search?q=https://colab.research.google.com/github/Imtiazul-Islam/ai-models/blob/main/Upscale/real-upscale-working-colab.ipynb) |
+| Model Category | Model Name | Hardware | Launch Notebook |
+| :--- | :--- | :--- | :--- |
+| **Upscale** | RealESRGAN | **T4 GPU** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Imtiazul-Islam/ai-models/blob/main/Upscale/real-upscale-working-colab.ipynb) |
 
 ---
 
@@ -20,9 +20,9 @@ High-performance models for upscaling and restoration.
 
 Generate high-quality images from text descriptions.
 
-| Model | Resource | Hardware Required | Open in Colab |
-| --- | --- | --- | --- |
-| **Z-Image Turbo** | Text-to-Image | **T4 GPU** (15GB VRAM) | [](https://www.google.com/search?q=https://colab.research.google.com/github/Imtiazul-Islam/ai-models/blob/main/Text-To-Image/z-image-turbo-on-t4-on-colab.ipynb) |
+| Model Category | Model Name | Hardware | Launch Notebook |
+| :--- | :--- | :--- | :--- |
+| **Image Gen** | Z-Image Turbo | **T4 GPU** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Imtiazul-Islam/ai-models/blob/main/Text-To-Image/z-image-turbo-on-t4-on-colab.ipynb) |
 
 ---
 
@@ -30,9 +30,9 @@ Generate high-quality images from text descriptions.
 
 Text-to-speech synthesis and voice cloning.
 
-| Model | Resource | Hardware Required | Open in Colab |
-| --- | --- | --- | --- |
-| **Ultimate TTS** | Text-to-Speech | **CPU Only** (No GPU) | [](https://www.google.com/search?q=https://colab.research.google.com/github/Imtiazul-Islam/ai-models/blob/main/TTS/Ultimate-TTS-Colab-CPU-Only-Mode.ipynb) |
+| Model Category | Model Name | Hardware | Launch Notebook |
+| :--- | :--- | :--- | :--- |
+| **Audio** | Ultimate TTS | **CPU Only** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Imtiazul-Islam/ai-models/blob/main/TTS/Ultimate-TTS-Colab-CPU-Only-Mode.ipynb) |
 
 ---
 
