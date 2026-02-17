@@ -1,5 +1,3 @@
-This version organizes your notebooks into clear, comprehensive categories. It includes specific hardware requirements and a cleaner layout for your GitHub `README.md`.
-
 # 🤖 AI Models Collection
 
 A curated collection of Google Colab notebooks for various AI tasks. Optimized for different hardware configurations.
