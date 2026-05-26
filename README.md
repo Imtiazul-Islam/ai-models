@@ -31,7 +31,7 @@ Text-to-speech synthesis and voice cloning.
 | Model Category | Model Name | Hardware | Launch Notebook |
 | :--- | :--- | :--- | :--- |
 | **Audio** | Ultimate TTS | **CPU Only** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Imtiazul-Islam/ai-models/blob/main/TTS/Ultimate-TTS-Colab-CPU-Only-Mode.ipynb) |
-| **SFX** | AudioGen | **T4 GPU** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Imtiazul-Islam/ai-models/blob/main/TTS/Ultimate-TTS-Colab-CPU-Only-Mode.ipynb) |
+| **SFX** | AudioGen | **T4 GPU** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Imtiazul-Islam/ai-models/blob/main/TTS/Meta-AudioCraft-Colab-T4.ipynb)) |
 
 ---
 
